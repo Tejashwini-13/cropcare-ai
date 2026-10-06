@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.vscode/
+venv/
+.venv/
+env/
+uploads/
+dataset/
+plantvillage/
+*.log
+.DS_Store
